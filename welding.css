@@ -1,0 +1,29 @@
+
+.nav-dark {
+    background-color:grey; 
+    color: black;
+    
+}
+
+h1 {
+    background-color: green;
+    padding: 10px;
+    text-align: left;
+    position: 0;
+}
+.images-carousel {
+    width: 45%;
+    text-align: center; 
+    padding: 10px;
+}
+.border-space {
+    margin: 10px;
+    text-align: center;
+}
+footer {
+    background-color: green; 
+    color: white; 
+    padding: 20px; 
+    font-style: italic;
+    font-size: large;
+}
