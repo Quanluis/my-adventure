@@ -1,10 +1,9 @@
 html {
     width: auto;
-    padding-block-start: 80%;
+    padding-block-start: 10px;
     padding: 30px;
     text-align: center;
     position: relative;
-    padding-bottom: -10px;
     top: -40px;
     background-image: url("https://avante.biz/wp-content/uploads/Brushed-Steel-Wallpapers/Brushed-Steel-Wallpapers-001.jpg");
 }
@@ -25,7 +24,7 @@ h1 {
     position: 10px;
     color: white;
     position: relative;
-    padding-bottom: 1px;
+    padding-bottom: 10px;
     
 }
 .top-number {
@@ -86,10 +85,16 @@ footer {
 
 }
 .image-top {
-position: relative;
-top: -85px;
-border-inline-start: 10px;
+position: absolute;
+top: 40px;
+
+
 }
 .forms {
     width: 50px;
+}
+.boone {
+    text-align: left;
+    position: relative;
+    padding-left: 110px;
 }
