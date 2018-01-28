@@ -66,5 +66,16 @@ footer {
 .container {
     text-align: center;
 
-} 
+}
+.contact-row {
+    color: green; 
 
+}
+.p-contact {
+    text-align: center;
+    position: relative;
+
+}
+.image-fluid {
+
+}
